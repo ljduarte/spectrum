@@ -38,5 +38,7 @@ If two replicate of the same experiment is performed, teh matrix becomes:
 |    +1     | +1       |             +1 |
 
 ## Output
-
+![plot](https://github.com/ljduarte/spectrum/tree/main/example/dicloro_output_F_dist_e1.png)
+![plot](https://github.com/ljduarte/spectrum/tree/main/example/dicloro_output_F_dist_e2.png)
+![plot](https://github.com/ljduarte/spectrum/tree/main/example/dicloro_output_F_dist_e12.png)
 ## Reference
